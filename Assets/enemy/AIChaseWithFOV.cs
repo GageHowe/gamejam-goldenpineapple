@@ -22,7 +22,7 @@ public class AIChaseWithFOV : MonoBehaviour
     Vector2 patrolTarget;
     Vector2? lastKnownPlayerPos = null;
     float stateTimer = 0f;
-
+    
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
