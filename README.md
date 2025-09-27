@@ -1,3 +1,0 @@
-# GoldenPineapple
-
-stuff goes here
