@@ -207,7 +207,7 @@ Rigidbody2D:
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
   m_Mass: 1
-  m_LinearDamping: 0.1
+  m_LinearDamping: 0.3
   m_AngularDamping: 0.05
   m_GravityScale: 0
   m_Material: {fileID: 0}
@@ -259,3 +259,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f3259dc1afa3587429d5c8c96debdb28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  maxHealth: 100

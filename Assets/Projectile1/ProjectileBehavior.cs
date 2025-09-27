@@ -21,18 +21,5 @@ public class ProjectileBehavior : MonoBehaviour
             health.TakeDamage(damage);
             Destroy(gameObject);
         }
-
-        //// Optionally impart momentum - for example:
-        //Rigidbody2D targetRb = collision.rigidbody;
-        //if (targetRb != null)
-        //{
-        //    // Add some force on the collided object in projectile's direction
-        //    Vector2 forceDirection = rb.velocity.normalized;
-        //    float forceMagnitude = 10f;  // Tune this
-        //    targetRb.AddForce(forceDirection * forceMagnitude, ForceMode2D.Impulse);
-        //}
-
-        //// Destroy projectile after collision
-        //Destroy(gameObject);
     }
 }
