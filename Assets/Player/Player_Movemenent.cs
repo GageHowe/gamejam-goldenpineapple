@@ -10,6 +10,7 @@ public class Player_Movemenent : MonoBehaviour
     public float fireCooldown = 0.5f;  // Seconds between shots
 
     private float lastFireTime;
+    
 
     void Start()
     {
