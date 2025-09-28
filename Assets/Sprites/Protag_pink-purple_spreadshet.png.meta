@@ -1,0 +1,683 @@
+fileFormatVersion: 2
+guid: 180e96f6985e3b44090ad4a3c808d270
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -814295302964443859
+    second: Protag_pink-purple_spreadshet_0
+  - first:
+      213: -5261657658871913475
+    second: Protag_pink-purple_spreadshet_1
+  - first:
+      213: 7139191731233609514
+    second: Protag_pink-purple_spreadshet_2
+  - first:
+      213: -127764146828573246
+    second: Protag_pink-purple_spreadshet_3
+  - first:
+      213: 619892037264888828
+    second: Protag_pink-purple_spreadshet_4
+  - first:
+      213: -9020734073225129555
+    second: Protag_pink-purple_spreadshet_5
+  - first:
+      213: 2381195030931742922
+    second: Protag_pink-purple_spreadshet_6
+  - first:
+      213: 4195791835090317436
+    second: Protag_pink-purple_spreadshet_7
+  - first:
+      213: 7442792229479796461
+    second: Protag_pink-purple_spreadshet_8
+  - first:
+      213: -3836119516388131117
+    second: Protag_pink-purple_spreadshet_9
+  - first:
+      213: 1066835538081037494
+    second: Protag_pink-purple_spreadshet_10
+  - first:
+      213: 6913256157753276081
+    second: Protag_pink-purple_spreadshet_11
+  - first:
+      213: 3375721927893411810
+    second: Protag_pink-purple_spreadshet_12
+  - first:
+      213: 8264477665228023093
+    second: Protag_pink-purple_spreadshet_13
+  - first:
+      213: 1643424773114994103
+    second: Protag_pink-purple_spreadshet_14
+  - first:
+      213: -3716299765816403462
+    second: Protag_pink-purple_spreadshet_15
+  - first:
+      213: 5498053784881002993
+    second: Protag_pink-purple_spreadshet_16
+  - first:
+      213: -7135744311190939926
+    second: Protag_pink-purple_spreadshet_17
+  - first:
+      213: 1508602427128484740
+    second: Protag_pink-purple_spreadshet_18
+  - first:
+      213: 7591101775285419722
+    second: Protag_pink-purple_spreadshet_19
+  - first:
+      213: 5970068206568827116
+    second: Protag_pink-purple_spreadshet_20
+  - first:
+      213: -7698367063370734572
+    second: Protag_pink-purple_spreadshet_21
+  - first:
+      213: 1851691100539245035
+    second: Protag_pink-purple_spreadshet_22
+  - first:
+      213: 59349360601694215
+    second: Protag_pink-purple_spreadshet_23
+  - first:
+      213: -5673477325813156638
+    second: Protag_pink-purple_spreadshet_24
+  - first:
+      213: -2851159633454519615
+    second: Protag_pink-purple_spreadshet_25
+  - first:
+      213: 8229434890930589987
+    second: Protag_pink-purple_spreadshet_26
+  - first:
+      213: 764956174920720584
+    second: Protag_pink-purple_spreadshet_27
+  - first:
+      213: 6695679132136037670
+    second: Protag_pink-purple_spreadshet_28
+  - first:
+      213: -6853191470086625331
+    second: Protag_pink-purple_spreadshet_29
+  - first:
+      213: 8400156612330784428
+    second: Protag_pink-purple_spreadshet_30
+  - first:
+      213: 7224681780789152230
+    second: Protag_pink-purple_spreadshet_31
+  - first:
+      213: 3373150970305865295
+    second: Protag_pink-purple_spreadshet_32
+  - first:
+      213: -6555718028733155784
+    second: Protag_pink-purple_spreadshet_33
+  - first:
+      213: -1815686603030565658
+    second: Protag_pink-purple_spreadshet_34
+  - first:
+      213: 5321913088682604702
+    second: Protag_pink-purple_spreadshet_35
+  - first:
+      213: 6739169871130534039
+    second: Protag_pink-purple_spreadshet_36
+  - first:
+      213: 4991625902398002093
+    second: Protag_pink-purple_spreadshet_37
+  - first:
+      213: -5419505475201956264
+    second: Protag_pink-purple_spreadshet_38
+  - first:
+      213: -6011669270089065479
+    second: Protag_pink-purple_spreadshet_39
+  - first:
+      213: -5784635071456187567
+    second: Protag_pink-purple_spreadshet_40
+  - first:
+      213: -8882255053856857940
+    second: Protag_pink-purple_spreadshet_41
+  - first:
+      213: 8034932379074937027
+    second: Protag_pink-purple_spreadshet_42
+  - first:
+      213: -2812648030931472654
+    second: Protag_pink-purple_spreadshet_43
+  - first:
+      213: 6650124746612850111
+    second: Protag_pink-purple_spreadshet_44
+  - first:
+      213: -460002343109171186
+    second: Protag_pink-purple_spreadshet_45
+  - first:
+      213: 3190316847301954529
+    second: Protag_pink-purple_spreadshet_46
+  - first:
+      213: -3217394468000033106
+    second: Protag_pink-purple_spreadshet_47
+  - first:
+      213: -8299151346480696095
+    second: Protag_pink-purple_spreadshet_48
+  - first:
+      213: 8363941070374579161
+    second: Protag_pink-purple_spreadshet_49
+  - first:
+      213: 6348329840420053118
+    second: Protag_pink-purple_spreadshet_50
+  - first:
+      213: 328311444278096756
+    second: Protag_pink-purple_spreadshet_51
+  - first:
+      213: 5050158623710609178
+    second: Protag_pink-purple_spreadshet_52
+  - first:
+      213: -7735652807663793573
+    second: Protag_pink-purple_spreadshet_53
+  - first:
+      213: 1561842124436767788
+    second: Protag_pink-purple_spreadshet_54
+  - first:
+      213: 1944561715372338403
+    second: Protag_pink-purple_spreadshet_55
+  - first:
+      213: -8666481645269398273
+    second: Protag_pink-purple_spreadshet_56
+  - first:
+      213: 3179221312532745356
+    second: Protag_pink-purple_spreadshet_57
+  - first:
+      213: -2175284740040078739
+    second: Protag_pink-purple_spreadshet_58
+  - first:
+      213: 5508808530038108408
+    second: Protag_pink-purple_spreadshet_59
+  - first:
+      213: 3400595137203237253
+    second: Protag_pink-purple_spreadshet_60
+  - first:
+      213: -4691802912986442835
+    second: Protag_pink-purple_spreadshet_61
+  - first:
+      213: 3884855500210497724
+    second: Protag_pink-purple_spreadshet_62
+  - first:
+      213: 3177389638645585614
+    second: Protag_pink-purple_spreadshet_63
+  - first:
+      213: -5004741816777986871
+    second: Protag_pink-purple_spreadshet_64
+  - first:
+      213: 4572365897177725562
+    second: Protag_pink-purple_spreadshet_65
+  - first:
+      213: -5884661339475622502
+    second: Protag_pink-purple_spreadshet_66
+  - first:
+      213: -2058002756261616799
+    second: Protag_pink-purple_spreadshet_67
+  - first:
+      213: -9040485104318472311
+    second: Protag_pink-purple_spreadshet_68
+  - first:
+      213: -4440403843152334571
+    second: Protag_pink-purple_spreadshet_69
+  - first:
+      213: 1558148548336810854
+    second: Protag_pink-purple_spreadshet_70
+  - first:
+      213: 3958925658099062303
+    second: Protag_pink-purple_spreadshet_71
+  - first:
+      213: -5990967602636637568
+    second: Protag_pink-purple_spreadshet_72
+  - first:
+      213: -3682617000785218114
+    second: Protag_pink-purple_spreadshet_73
+  - first:
+      213: -847978352481893685
+    second: Protag_pink-purple_spreadshet_74
+  - first:
+      213: 775539764943439258
+    second: Protag_pink-purple_spreadshet_75
+  - first:
+      213: 2603957391323880768
+    second: Protag_pink-purple_spreadshet_76
+  - first:
+      213: -1836669292163933022
+    second: Protag_pink-purple_spreadshet_77
+  - first:
+      213: 5690785493009701190
+    second: Protag_pink-purple_spreadshet_78
+  - first:
+      213: -4588807446930860653
+    second: Protag_pink-purple_spreadshet_79
+  - first:
+      213: 1435198024081569203
+    second: Protag_pink-purple_spreadshet_80
+  - first:
+      213: 2870496406855586156
+    second: Protag_pink-purple_spreadshet_81
+  - first:
+      213: 4540749993608790682
+    second: Protag_pink-purple_spreadshet_82
+  - first:
+      213: 9195861321301050295
+    second: Protag_pink-purple_spreadshet_83
+  - first:
+      213: -2156656122348785951
+    second: Protag_pink-purple_spreadshet_84
+  - first:
+      213: 2962099203973677823
+    second: Protag_pink-purple_spreadshet_85
+  - first:
+      213: -7369581017551429098
+    second: Protag_pink-purple_spreadshet_86
+  - first:
+      213: 152898491976221115
+    second: Protag_pink-purple_spreadshet_87
+  - first:
+      213: 3098162670760858247
+    second: Protag_pink-purple_spreadshet_88
+  - first:
+      213: -6353505166860728467
+    second: Protag_pink-purple_spreadshet_89
+  - first:
+      213: 5902073673990898762
+    second: Protag_pink-purple_spreadshet_90
+  - first:
+      213: -8795116967354714829
+    second: Protag_pink-purple_spreadshet_91
+  - first:
+      213: 177542799331401848
+    second: Protag_pink-purple_spreadshet_92
+  - first:
+      213: -2723587148494176637
+    second: Protag_pink-purple_spreadshet_93
+  - first:
+      213: -1627438381355805093
+    second: Protag_pink-purple_spreadshet_94
+  - first:
+      213: -1957057187130379926
+    second: Protag_pink-purple_spreadshet_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Protag_pink-purple_spreadshet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25098c7cba03b4f0800000000000000
+      internalID: -814295302964443859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protag_pink-purple_spreadshet_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1b923b6695b8a46a511c5ba15a5123
+      internalID: -5261657658871913475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protag_pink-purple_spreadshet_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bfe97ce2054274c94f7e8c54e0df6a
+      internalID: 7139191731233609514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protag_pink-purple_spreadshet_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f077cf08a8fd747b8a73b32536390a
+      internalID: -127764146828573246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protag_pink-purple_spreadshet_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36e55e16a4ecd2468c3e35a91c757c8
+      internalID: 619892037264888828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protag_pink-purple_spreadshet_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025eabdc291ce5243bb0214b70d61e1b
+      internalID: -9020734073225129555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protag_pink-purple_spreadshet_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c24978679427044ab10bf9b7a06feb
+      internalID: 2381195030931742922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protag_pink-purple_spreadshet_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7da6da68017fc4cb9a5a00be571b1f
+      internalID: 4195791835090317436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protag_pink-purple_spreadshet_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5dcecca72b28e42bd0846717608da3
+      internalID: 7442792229479796461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protag_pink-purple_spreadshet_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7216bcebf82ec4cb4424ff3878851d
+      internalID: -3836119516388131117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protag_pink-purple_spreadshet_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a4df9ebeb49224ba0f8b9a59f74eeb
+      internalID: 1066835538081037494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protag_pink-purple_spreadshet_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dc1bd282b75064cba895b45659bb30
+      internalID: 6913256157753276081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":12.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Protag_pink-purple_spreadshet_0: -814295302964443859
+      Protag_pink-purple_spreadshet_1: -5261657658871913475
+      Protag_pink-purple_spreadshet_10: 1066835538081037494
+      Protag_pink-purple_spreadshet_11: 6913256157753276081
+      Protag_pink-purple_spreadshet_2: 7139191731233609514
+      Protag_pink-purple_spreadshet_3: -127764146828573246
+      Protag_pink-purple_spreadshet_4: 619892037264888828
+      Protag_pink-purple_spreadshet_5: -9020734073225129555
+      Protag_pink-purple_spreadshet_6: 2381195030931742922
+      Protag_pink-purple_spreadshet_7: 4195791835090317436
+      Protag_pink-purple_spreadshet_8: 7442792229479796461
+      Protag_pink-purple_spreadshet_9: -3836119516388131117
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
