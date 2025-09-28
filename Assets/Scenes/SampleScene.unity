@@ -293,17 +293,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 02cb28219c6a338488ac283b86cac313, type: 3}
---- !u!114 &179488820 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 6704791046090878019, guid: d6d622f712d4ad94dab57cd54a94166d, type: 3}
-  m_PrefabInstance: {fileID: 1036304262183183060}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d2cf3309224d1784d83ec18c599e209e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::RandomSoundPlayer
 --- !u!1 &377990190 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3059781867977014386, guid: d6d622f712d4ad94dab57cd54a94166d, type: 3}
@@ -770,6 +759,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1563238948632144027, guid: d6d622f712d4ad94dab57cd54a94166d, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2154412805846200866, guid: d6d622f712d4ad94dab57cd54a94166d, type: 3}
       propertyPath: m_LocalPosition.x
       value: 7.01
@@ -821,6 +814,10 @@ PrefabInstance:
     - target: {fileID: 5341424894541553117, guid: d6d622f712d4ad94dab57cd54a94166d, type: 3}
       propertyPath: m_LinearDamping
       value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6946950910016061881, guid: d6d622f712d4ad94dab57cd54a94166d, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7815105920548220297, guid: d6d622f712d4ad94dab57cd54a94166d, type: 3}
       propertyPath: slider
@@ -1215,6 +1212,17 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6ea147efb5913004da302a40757beb96, type: 3}
+--- !u!114 &791288540 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 2263593284775202754, guid: d6d622f712d4ad94dab57cd54a94166d, type: 3}
+  m_PrefabInstance: {fileID: 1036304262183183060}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Slider
 --- !u!1001 &932340746
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1296,6 +1304,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1563238948632144027, guid: d6d622f712d4ad94dab57cd54a94166d, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2154412805846200866, guid: d6d622f712d4ad94dab57cd54a94166d, type: 3}
       propertyPath: m_LocalPosition.x
       value: 5.6
@@ -1348,6 +1360,10 @@ PrefabInstance:
       propertyPath: m_LinearDamping
       value: 0.2
       objectReference: {fileID: 0}
+    - target: {fileID: 6946950910016061881, guid: d6d622f712d4ad94dab57cd54a94166d, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7815105920548220297, guid: d6d622f712d4ad94dab57cd54a94166d, type: 3}
       propertyPath: slider
       value: 
@@ -1373,6 +1389,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1563238948632144027, guid: d6d622f712d4ad94dab57cd54a94166d, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2154412805846200866, guid: d6d622f712d4ad94dab57cd54a94166d, type: 3}
       propertyPath: m_LocalPosition.x
       value: -6.73
@@ -1424,6 +1444,10 @@ PrefabInstance:
     - target: {fileID: 5341424894541553117, guid: d6d622f712d4ad94dab57cd54a94166d, type: 3}
       propertyPath: m_LinearDamping
       value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6946950910016061881, guid: d6d622f712d4ad94dab57cd54a94166d, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7815105920548220297, guid: d6d622f712d4ad94dab57cd54a94166d, type: 3}
       propertyPath: slider
@@ -1947,13 +1971,13 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1276109886051884060, guid: d6d622f712d4ad94dab57cd54a94166d, type: 3}
-      propertyPath: m_LocalPosition.x
+    - target: {fileID: 1563238948632144027, guid: d6d622f712d4ad94dab57cd54a94166d, type: 3}
+      propertyPath: m_AnchorMax.y
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2154412805846200866, guid: d6d622f712d4ad94dab57cd54a94166d, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 12.3
+      value: 6.7
       objectReference: {fileID: 0}
     - target: {fileID: 2154412805846200866, guid: d6d622f712d4ad94dab57cd54a94166d, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1991,26 +2015,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3059781867977014386, guid: d6d622f712d4ad94dab57cd54a94166d, type: 3}
-      propertyPath: m_Name
-      value: Sprite1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4192704302443561346, guid: d6d622f712d4ad94dab57cd54a94166d, type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: -1675025149711837622, guid: 99d5969ae3839524bbd9777f5459d426, type: 3}
-    - target: {fileID: 5341424894541553117, guid: d6d622f712d4ad94dab57cd54a94166d, type: 3}
-      propertyPath: m_LinearDamping
-      value: 0.2
+    - target: {fileID: 6946950910016061881, guid: d6d622f712d4ad94dab57cd54a94166d, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7815105920548220297, guid: d6d622f712d4ad94dab57cd54a94166d, type: 3}
       propertyPath: slider
       value: 
-      objectReference: {fileID: 1160198728}
-    - target: {fileID: 7815105920548220297, guid: d6d622f712d4ad94dab57cd54a94166d, type: 3}
-      propertyPath: hurtSounds
-      value: 
-      objectReference: {fileID: 179488820}
+      objectReference: {fileID: 791288540}
     - target: {fileID: 8998156669754915236, guid: d6d622f712d4ad94dab57cd54a94166d, type: 3}
       propertyPath: m_Name
       value: Enemy1
