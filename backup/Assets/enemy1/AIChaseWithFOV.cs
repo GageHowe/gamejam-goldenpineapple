@@ -11,9 +11,6 @@ public class AIChaseWithFOV : MonoBehaviour
     public float searchDuration = 5f;
     public float driftReduction = 0.1f;
 
-    public int damageAmount = 10;  // Damage dealt to player on collision
-
-
     public LayerMask playerLayer;
     public LayerMask obstacleLayer;
 
@@ -30,15 +27,6 @@ public class AIChaseWithFOV : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         ChooseNewPatrolTarget();
-    }
-
-    void OnCollisionEnter2D(Collision2D collision)
-    {
-        Health playerHealth = collision.gameObject.GetComponent<Health>();
-        if (playerHealth != null)
-        {
-            playerHealth.TakeDamage(damageAmount);
-        }
     }
 
     void FixedUpdate()
@@ -194,6 +182,4 @@ public class AIChaseWithFOV : MonoBehaviour
         float angle = Mathf.Clamp(angleDiff, -maxRotation, maxRotation);
         rb.MoveRotation(rb.rotation + angle);
     }
-
-
 }
