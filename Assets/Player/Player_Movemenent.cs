@@ -1,3 +1,5 @@
+
+
 using UnityEngine;
 
 public class Player_Movemenent : MonoBehaviour
@@ -10,7 +12,8 @@ public class Player_Movemenent : MonoBehaviour
     public float fireCooldown = 0.5f;  // Seconds between shots
 
     private float lastFireTime;
-    
+
+    public RandomSoundPlayer gunshotSounds;
 
     void Start()
     {
@@ -44,6 +47,7 @@ public class Player_Movemenent : MonoBehaviour
         if (rb != null)
         {
             rb.linearVelocity = gunTransform.up * 20f; // Adjust speed here
+            gunshotSounds.Play();
         }
     }
 }

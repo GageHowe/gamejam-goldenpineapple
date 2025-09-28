@@ -8,7 +8,9 @@ public class Health : MonoBehaviour
 
     [SerializeField] private Slider slider;
 
-    public float regenRate = 0.05f; // health points per second to regenerate
+    public float regenRate = 2.0f; // health points per second to regenerate
+
+    public RandomSoundPlayer hurtSounds;
 
     void Start()
     {
@@ -39,6 +41,7 @@ public class Health : MonoBehaviour
         currentHealth -= damageAmount;
         if (currentHealth < 0) currentHealth = 0;
         UpdateHealthBar(currentHealth, maxHealth);
+        hurtSounds.Play();
         if (currentHealth <= 0)
         {
             Die();
