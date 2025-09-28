@@ -15,7 +15,7 @@ public class GameManager : MonoBehaviour
     [SerializeField]
     private GameObject enemyPrefab;
 
-    public Transform playerTransform;
+    private Transform playerTransform;
     private Camera mainCamera;
     private void Awake()
     {
@@ -30,7 +30,18 @@ public class GameManager : MonoBehaviour
         DontDestroyOnLoad(gameObject);
         mainCamera = Camera.main;
         spawnTimer = BaseSpawnInterval;
+
+        GameObject playerObj = GameObject.FindWithTag("Player");
+        if (playerObj != null)
+        {
+            playerTransform = playerObj.transform;
+        }
+        else
+        {
+            Debug.LogWarning("Player GameObject not found! Make sure the player has the tag 'Player'.");
+        }
     }
+
 
     private void Update()
     {
