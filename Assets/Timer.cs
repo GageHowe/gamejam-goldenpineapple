@@ -13,6 +13,7 @@ public class Timer : MonoBehaviour
     {
         Win.SetActive(false);
         Death.SetActive(false);
+        Time.timeScale = 1f;
     }
 
     void Update()

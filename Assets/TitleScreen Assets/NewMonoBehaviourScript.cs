@@ -11,6 +11,7 @@ public class NewMonoBehaviourScript : MonoBehaviour
 
     public void TryAgain()
     {
+        Time.timeScale = 1f;
         SceneManager.LoadScene(1);
     }
 
