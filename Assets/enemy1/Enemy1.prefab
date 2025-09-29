@@ -901,3 +901,5 @@ MonoBehaviour:
   slider: {fileID: 2263593284775202754}
   regenRate: 2
   hurtSounds: {fileID: 6704791046090878019}
+  Death: {fileID: 2222233483389938578, guid: 3c65a2229ca76ab4f8934acfaf2e0796, type: 3}
+  TimerObject: {fileID: 2222233483389938578, guid: 3c65a2229ca76ab4f8934acfaf2e0796, type: 3}
