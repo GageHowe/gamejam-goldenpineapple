@@ -12,6 +12,10 @@ public class Health : MonoBehaviour
 
     public RandomSoundPlayer hurtSounds;
 
+    public bool isPlayer = false;  // Flag to identify player
+
+    public GameObject gameOverCanvas; // Assign only for player
+
     void Start()
     {
         currentHealth = maxHealth;
@@ -60,6 +64,16 @@ public class Health : MonoBehaviour
 
     void Die()
     {
+        if (isPlayer)
+        {
+            // Show Game Over canvas and pause game for player
+            if (gameOverCanvas != null)
+            {
+                gameOverCanvas.SetActive(true);
+                Time.timeScale = 0f;
+            }
+            // Disable player controls here if needed
+        }
         Destroy(gameObject);
     }
 }

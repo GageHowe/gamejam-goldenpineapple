@@ -7,13 +7,14 @@ public class Timer : MonoBehaviour
     [SerializeField] float remainingTime;
     public GameObject TimerObject;
     public GameObject Win;
+    public GameObject Death;
 
     private void Start()
     {
         Win.SetActive(false);
+        Death.SetActive(false);
     }
 
-    
     void Update()
     {
 
@@ -26,7 +27,6 @@ public class Timer : MonoBehaviour
             Win.SetActive(true);
             TimerObject.SetActive(false);
             Time.timeScale = 0f;
-            
         }
         
         int minutes = Mathf.FloorToInt(remainingTime / 60);
