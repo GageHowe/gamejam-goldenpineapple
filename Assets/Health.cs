@@ -12,16 +12,10 @@ public class Health : MonoBehaviour
 
     public RandomSoundPlayer hurtSounds;
 
-    public GameObject Death;
-    public GameObject TimerObject;
-    private GameObject self;
-
     void Start()
     {
         currentHealth = maxHealth;
         UpdateHealthBar(currentHealth, maxHealth);
-        Death.SetActive(false);
-        self = this.gameObject;
     }
 
     void Update()
@@ -66,10 +60,6 @@ public class Health : MonoBehaviour
 
     void Die()
     {
-        if (self.CompareTag("Player"))
-        Death.SetActive(true);
-        TimerObject.SetActive(false);
-
         Destroy(gameObject);
     }
 }

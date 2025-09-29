@@ -7,9 +7,6 @@ public class Timer : MonoBehaviour
     [SerializeField] float remainingTime;
     public GameObject TimerObject;
     public GameObject Win;
-    
-    
-    
 
     private void Start()
     {
@@ -29,14 +26,11 @@ public class Timer : MonoBehaviour
             Win.SetActive(true);
             TimerObject.SetActive(false);
             Time.timeScale = 0f;
-
+            
         }
         
-            int minutes = Mathf.FloorToInt(remainingTime / 60);
-            int seconds = Mathf.FloorToInt(remainingTime % 60);
-            timerText.text = string.Format("{0:00}:{1:00}", minutes, seconds);
-        
-        
-        
+        int minutes = Mathf.FloorToInt(remainingTime / 60);
+        int seconds = Mathf.FloorToInt(remainingTime % 60);
+        timerText.text = string.Format("{0:00}:{1:00}", minutes, seconds);
     }
 }
