@@ -2577,9 +2577,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Timer
   timerText: {fileID: 128552629}
-  remainingTime: 5
+  remainingTime: 50
   TimerObject: {fileID: 128552628}
   Win: {fileID: 997877883}
+  Death: {fileID: 930989256}
 --- !u!114 &1196026699
 MonoBehaviour:
   m_ObjectHideFlags: 0
